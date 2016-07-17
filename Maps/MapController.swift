@@ -35,6 +35,7 @@ class MapController: UIViewController, MKMapViewDelegate, CLLocationManagerDeleg
     }
     
     func configureMapView(coordinate: CLLocationCoordinate2D, region: MKCoordinateRegion){
+        // Setando informação ao marcador do mapa
         
         let annotation = MKPointAnnotation()
         
