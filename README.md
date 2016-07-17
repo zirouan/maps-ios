@@ -1,17 +1,18 @@
 # Maps
-É um projeto simples de estudo para IOS + Swift utilizando o MKMapView.<br>
-O projeto contém uma única tela onde o app mostra a localização do usuário no mapa.
+
+It is a simple design study for IOS + Swift using MKMapView.<br>
+The project contains a single screen where the app shows the user's location on the map.
 
 <img src="https://github.com/rudsonlive/maps-ios/blob/master/Image/image_maps.png">
 
-# Sobre a tela
+# On the screens
 
-Map: Mapa utilizando o MKMapView
-  - É verificado se já existe permissão de acesso a localização.
-  - O App busca a localização atual do usuário.
-  - E se clicar no marcador do mapa é exibido a seguinte informação: "Fortaleza/CE Brasil".
+Map: Map using MKMapView
+  - It is checked if there is already permission to access location.
+  - App search the user's current location.
+  - And if you click on the map marker displays the following information: "Fortaleza/CE Brazil."
 
-# Foi utilizado para o desenvolvimento
+# It was used to develop
   - XCode Version 7.3.1 (7D1014)
   - Apple Swift version 2.2
 
