@@ -57,10 +57,10 @@
 		E2A9629C1D3A9F6D00ECEE32 /* Maps */ = {
 			isa = PBXGroup;
 			children = (
+				E2A962A41D3A9F6D00ECEE32 /* Assets.xcassets */,
 				E2A9629D1D3A9F6D00ECEE32 /* AppDelegate.swift */,
 				E2A9629F1D3A9F6D00ECEE32 /* MapController.swift */,
 				E2A962A11D3A9F6D00ECEE32 /* Main.storyboard */,
-				E2A962A41D3A9F6D00ECEE32 /* Assets.xcassets */,
 				E2A962A61D3A9F6D00ECEE32 /* LaunchScreen.storyboard */,
 				E2A962A91D3A9F6D00ECEE32 /* Info.plist */,
 			);
