@@ -10,6 +10,7 @@ The project contains a single screen where the app shows the user's location on 
 Map: Map using MKMapView
   - It is checked if there is already permission to access location.
   - App search the user's current location.
+  - Custom map pin (new)
   - And if you click on the map marker displays the following information: "Fortaleza/CE Brazil."
 
 # It was used to develop
